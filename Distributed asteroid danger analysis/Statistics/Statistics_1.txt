@@ -1,0 +1,54 @@
+**********************
+Requests Handled: 9
+Worker ID: i-0e568f7bfbd0a0e38
+Total asteroids parsed: 46
+Safe asteroids: 3
+Dangerous asteroids: 43
+Green asteroids: 17
+Yellow asteroids: 19
+Red asteroids: 7
+**********************
+Requests Handled: 1
+Worker ID: i-0169fbd39cf15e946
+Total asteroids parsed: 6
+Safe asteroids: 1
+Dangerous asteroids: 5
+Green asteroids: 2
+Yellow asteroids: 1
+Red asteroids: 2
+**********************
+Requests Handled: 2
+Worker ID: i-0286e94bed741c889
+Total asteroids parsed: 6
+Safe asteroids: 0
+Dangerous asteroids: 6
+Green asteroids: 3
+Yellow asteroids: 1
+Red asteroids: 2
+**********************
+Requests Handled: 0
+Worker ID: i-090e8479d93e11bd5
+Total asteroids parsed: 0
+Safe asteroids: 0
+Dangerous asteroids: 0
+Green asteroids: 0
+Yellow asteroids: 0
+Red asteroids: 0
+**********************
+Requests Handled: 6
+Worker ID: i-0ed1ae888b813fb9a
+Total asteroids parsed: 29
+Safe asteroids: 4
+Dangerous asteroids: 25
+Green asteroids: 16
+Yellow asteroids: 5
+Red asteroids: 4
+**********************
+Requests Handled: 0
+Worker ID: i-03485f0e887bcbff6
+Total asteroids parsed: 0
+Safe asteroids: 0
+Dangerous asteroids: 0
+Green asteroids: 0
+Yellow asteroids: 0
+Red asteroids: 0
